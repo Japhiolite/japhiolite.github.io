@@ -4,9 +4,16 @@ title: About
 permalink: /about/
 ---
 
-About content goes here. does it work?
+### Myself
+My name is Jan. I'm a geoscientist. In 2012, I've got a masters degree in the European Master Program of Sedimentary Basins and Lithosphere (short-name: _Basinmaster_). Since then, I'm working as a PhD student at the [Institute for Applied Geophysics and Geothermal Energy](https://www.eonerc.rwth-aachen.de/gge).   
+My work circles around geothermal reservoir modelling and covers the whole process from gathering data, over building a conceptual geological model, to running numerical simulations about mass and heat transport in the reservoir system.
+Of special interest for me in this context is _"how reliable are our predictions from the numerical model, when already the geological input is highly uncertain?"_
 
-* list item one
-* list item two
+So in a nutshell, my _research_ interests comprise:  
 
-$$\alpha = 3 \times \beta$$
+* modelling (geological models and heat transport models)    
+* optimization    
+* digital teaching methods    
+
+If I'm not in the office, I love to spend my time making music, bouldering, or digging deeper into astronomy...
+
