@@ -15,5 +15,7 @@ So in a nutshell, my _research_ interests comprise:
 * optimization    
 * digital teaching methods    
 
+Since May 2018, I work as a research assistant at the [Chair of Computational Geoscience and Reservoir Engineering](https://github.com/cgre-aachen){:target="_blank"}. There, I work on a project which specifically targets innovation in digital teaching and learning. 
+
 If I'm not in the office, I love to spend my time making music, bouldering, or digging deeper into astronomy...
 
