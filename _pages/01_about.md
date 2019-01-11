@@ -15,7 +15,10 @@ So in a nutshell, my _research_ interests comprise:
 * optimization    
 * digital teaching methods    
 
-Since May 2018, I work as a research assistant at the [Chair of Computational Geoscience and Reservoir Engineering](https://github.com/cgre-aachen){:target="_blank"}. There, I work on a project which specifically targets innovation in digital teaching and learning. 
+From May 2018 to December 2018, I worked as a research assistant at the [Chair of Computational Geoscience and Reservoir Engineering](http://www.cgre.rwth-aachen.de/cms/~qoyf/CGRE/?lidx=1){:target="_blank"}. There, I worked on a project which specifically targets innovation in digital teaching and learning. 
+
+Since January 2019, I'm back to the academia revolving about geothermics and its potential to be an energy source complementary to solar, wind, and hydro-power. I know work at the [Geothermal Energy and Geofluids]() group at ETH Zürich.  
+
 
 If I'm not in the office, I love to spend my time making music, bouldering, or digging deeper into astronomy...
 
