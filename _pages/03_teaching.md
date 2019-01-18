@@ -29,7 +29,9 @@ Next to the exercises held in class, I add explanatory jupyter-notebooks for pro
 * [Temperature gradient of RWTH-1](http://nbviewer.jupyter.org/github/Japhiolite/geothermics/blob/master/02_T-gradient_RWTH-1.ipynb)  
 * [Heat capacity](http://nbviewer.jupyter.org/github/Japhiolite/geothermics/blob/master/03_heat_capacity.ipynb)  
 * [The Horner Plot method](http://nbviewer.jupyter.org/github/Japhiolite/geothermics/blob/master/07_Horner_Plot.ipynb)  
-* [The Bullard Plot method](http://nbviewer.jupyter.org/github/Japhiolite/geothermics/blob/master/08_Bullard_Plot.ipynb)  
+* [The Bullard Plot method](http://nbviewer.jupyter.org/github/Japhiolite/geothermics/blob/master/08_Bullard_Plot.ipynb)    
+* [Geothermal doublets](https://nbviewer.jupyter.org/github/Japhiolite/geothermics/blob/master/09_Geothermal_doublets.ipynb)  
+* [Lord Kelvin and the age of the Earth](https://nbviewer.jupyter.org/github/Japhiolite/geothermics/blob/master/10_Lord_Kelvin_dating_the_Earth.ipynb)
 
 ### Notebooks in an interactive environment:
 You can also work on notebooks interactively by using _binder_. Click on the binder badge to get to a remote notebook server:
