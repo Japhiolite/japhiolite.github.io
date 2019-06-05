@@ -10,4 +10,4 @@ permalink: /research/
 * Digital teaching methods to encourage independent learning.  
 
 ## Publications  
-[link to publication page](http://www.gge.eonerc.rwth-aachen.de/cms/E-ON-ERC-GGE/Das-Institut/Mitarbeiter/Wissenschaftliches-Personal/~fnlf/Niederau-Jan/)
+[link to publication page](https://scholar.google.ch/citations?hl=de&view_op=list_works&gmla=AJsN-F6laTpxFqAxjVHXPR8HH_i0x5Pn0bDy67umlInmoxmDq8_flxU-jJXp60dEswl28Hoqty4wVCfm0fkrI5M4uRaVTYH7Ycy_uq1SmMKKW4aolx-VRYQpp-WnDdX1qT-yxwFWwCJUF3RDJydHdVBGK8__n4GyBw&user=mbC70WMAAAAJ)
