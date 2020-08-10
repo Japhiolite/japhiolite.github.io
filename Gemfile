@@ -11,7 +11,7 @@ gem "github-pages", group: :jekyll_plugins
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", ">=3.6.3"
+gem "jekyll", ">= 3.6.3"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima"
@@ -25,3 +25,6 @@ gem "minima"
 # group :jekyll_plugins do
 #   gem "jekyll-github-metadata", "~> 1.0"
 # end
+
+# Update kramdown
+gem "kramdown", ">= 2.3.0"
